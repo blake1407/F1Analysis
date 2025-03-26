@@ -1,6 +1,7 @@
 This project aims to analyze F1 drivers' performance across different circuits during the 2021-2024 seasons. Through exploratory data analysis and statistical techniques, we seek to answer two key questions:
 1. Does track qualities influence lap time across drivers?
 2. What are some circuits that each driver performs best in?
+
 An in-depth overview of the data analysis pipeline and results is available [here](https://blaketrn.notion.site/A-Simple-F1-Drivers-Performance-Analysis-1c1b8fab88a780e9bed4e9c02eadbbe6).
 
 ## 📋 Overview
